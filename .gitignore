@@ -1,0 +1,17 @@
+# Personal & Confidential Information
+personal info/
+"personal info"/
+*[Pp]ersonal*[Ii]nfo*
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PlatformIO & Build Artifacts
+.pio/
+.vscode/.browse.c_cpp.db*
+*.o
+*.elf
+*.bin
+*.hex
